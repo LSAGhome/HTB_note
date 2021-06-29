@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "4a77aedcb4dc6db2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e70f9251c90f4c8",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Spectra/Pasted image 20210628205737.png"
+          }
+        }
+      },
+      {
+        "id": "22f7724d38dedbd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d342130ff921120",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87ff5a8cacda191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53803c84427aaeb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5600126cd3990893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08d6d2cd76340541",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1589638731685c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb4ebe787d0a001",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "22f7724d38dedbd4",
+  "lastOpenFiles": [
+    "Intro.md",
+    "Pasted image 20210628205600.png",
+    "Pasted image 20210628205737.png",
+    "Spectra/3. Privilege Escalation.md",
+    "Spectra/2.0 Initial Foothold.md",
+    "Spectra/1.2 Port 8081 HTTP.md",
+    "Spectra/1.1 Port 80 HTTP.md",
+    "Spectra/1.1.1 Port 80 HTTP Main wordpress.md",
+    "Spectra/1.1.2 Port 80 HTTP Test.md",
+    "Spectra/Untitled.md"
+  ]
+}
